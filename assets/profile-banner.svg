@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="420" viewBox="0 0 1100 420" role="img" aria-label="이경민, MES ERP Developer. 화면과 서버, 데이터를 연결하는 개발자">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0F172A"/><stop offset="1" stop-color="#0B1220"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#60A5FA"/><stop offset="0.55" stop-color="#818CF8"/><stop offset="1" stop-color="#2DD4BF"/></linearGradient>
+    <radialGradient id="glow"><stop stop-color="#2563EB" stop-opacity="0.24"/><stop offset="1" stop-color="#2563EB" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="44" height="44" patternUnits="userSpaceOnUse"><path d="M44 0H0V44" fill="none" stroke="#94A3B8" stroke-opacity="0.055"/></pattern>
+    <clipPath id="clip"><rect x="1" y="1" width="1098" height="418" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#clip)">
+    <rect width="1100" height="420" fill="url(#bg)"/>
+    <rect width="1100" height="420" fill="url(#grid)"/>
+    <ellipse cx="550" cy="140" rx="530" ry="300" fill="url(#glow)"/>
+    <path d="M-85 355C175 355 158 65 403 65" fill="none" stroke="#60A5FA" stroke-opacity="0.14"/>
+    <path d="M1190 62C923 62 922 355 702 355" fill="none" stroke="#2DD4BF" stroke-opacity="0.17"/>
+    <path d="M50 419H1050" stroke="url(#accent)" stroke-width="3"/>
+    <g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Noto Sans KR,Arial,sans-serif" text-anchor="middle">
+      <rect x="409" y="43" width="282" height="34" rx="17" fill="#17233A" stroke="#344762"/>
+      <circle cx="433" cy="60" r="4" fill="#2DD4BF"/>
+      <text x="558" y="65" fill="#C9D7EF" font-size="13" font-weight="600" letter-spacing="2.8">MES / ERP DEVELOPER</text>
+      <text x="550" y="174" fill="#F1F5F9" font-size="77" font-weight="750" letter-spacing="-4">이경민</text>
+      <text x="550" y="221" fill="#A6B6CF" font-size="21" letter-spacing="0.5">업무 흐름을 이해하고, 화면·서버·DB를 연결합니다.</text>
+      <g font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="13" letter-spacing="2">
+        <rect x="276" y="264" width="158" height="45" rx="12" fill="#172339" stroke="#2F4C70"/>
+        <text x="355" y="292" fill="#93C5FD">SCREEN</text>
+        <path d="M452 286H469M464 282L469 286L464 290" fill="none" stroke="#64748B" stroke-width="1.5"/>
+        <rect x="471" y="264" width="158" height="45" rx="12" fill="#1A223A" stroke="#434A78"/>
+        <text x="550" y="292" fill="#A5B4FC">SERVER</text>
+        <path d="M647 286H664M659 282L664 286L659 290" fill="none" stroke="#64748B" stroke-width="1.5"/>
+        <rect x="666" y="264" width="158" height="45" rx="12" fill="#122B30" stroke="#285854"/>
+        <text x="745" y="292" fill="#5EEAD4">DATABASE</text>
+      </g>
+      <text x="550" y="362" fill="#69809F" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="12" letter-spacing="3">MANUFACTURING SYSTEMS · REAL-WORLD OPERATIONS</text>
+    </g>
+  </g>
+  <rect x="1" y="1" width="1098" height="418" rx="24" fill="none" stroke="#30435D"/>
+</svg>
